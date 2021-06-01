@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\Telegram_Interface\Telegram_Interface\bin\Release\netcoreapp3.1\Telegram_Interface.exe
+C:\Users\HP\source\repos\Telegram_Interface\Telegram_Interface\bin\Release\netcoreapp3.1\Settings.job
+C:\Users\HP\source\repos\Telegram_Interface\Telegram_Interface\bin\Release\netcoreapp3.1\Telegram_Interface.deps.json
+C:\Users\HP\source\repos\Telegram_Interface\Telegram_Interface\bin\Release\netcoreapp3.1\Telegram_Interface.runtimeconfig.json
+C:\Users\HP\source\repos\Telegram_Interface\Telegram_Interface\bin\Release\netcoreapp3.1\Telegram_Interface.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Telegram_Interface\Telegram_Interface\bin\Release\netcoreapp3.1\Telegram_Interface.dll
+C:\Users\HP\source\repos\Telegram_Interface\Telegram_Interface\bin\Release\netcoreapp3.1\Telegram_Interface.pdb
+C:\Users\HP\source\repos\Telegram_Interface\Telegram_Interface\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\Telegram_Interface\Telegram_Interface\bin\Release\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\HP\source\repos\Telegram_Interface\Telegram_Interface\obj\Release\netcoreapp3.1\Telegram_Interface.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Telegram_Interface\Telegram_Interface\obj\Release\netcoreapp3.1\Telegram_Interface.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Telegram_Interface\Telegram_Interface\obj\Release\netcoreapp3.1\Telegram_Interface.AssemblyInfo.cs
+C:\Users\HP\source\repos\Telegram_Interface\Telegram_Interface\obj\Release\netcoreapp3.1\Telegram_Interface.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Telegram_Interface\Telegram_Interface\obj\Release\netcoreapp3.1\Telegram_Interface.csproj.CopyComplete
+C:\Users\HP\source\repos\Telegram_Interface\Telegram_Interface\obj\Release\netcoreapp3.1\Telegram_Interface.dll
+C:\Users\HP\source\repos\Telegram_Interface\Telegram_Interface\obj\Release\netcoreapp3.1\Telegram_Interface.pdb
+C:\Users\HP\source\repos\Telegram_Interface\Telegram_Interface\obj\Release\netcoreapp3.1\Telegram_Interface.genruntimeconfig.cache

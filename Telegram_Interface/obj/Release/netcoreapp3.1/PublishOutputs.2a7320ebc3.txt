@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\Telegram_Interface\Telegram_Interface\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\Telegram_Interface\Settings.job
+C:\Users\HP\source\repos\Telegram_Interface\Telegram_Interface\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\Telegram_Interface\Telegram_Interface.exe
+C:\Users\HP\source\repos\Telegram_Interface\Telegram_Interface\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\Telegram_Interface\Telegram_Interface.dll
+C:\Users\HP\source\repos\Telegram_Interface\Telegram_Interface\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\Telegram_Interface\Telegram_Interface.deps.json
+C:\Users\HP\source\repos\Telegram_Interface\Telegram_Interface\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\Telegram_Interface\Telegram_Interface.runtimeconfig.json
+C:\Users\HP\source\repos\Telegram_Interface\Telegram_Interface\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\Telegram_Interface\Telegram_Interface.pdb
+C:\Users\HP\source\repos\Telegram_Interface\Telegram_Interface\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\Telegram_Interface\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\Telegram_Interface\Telegram_Interface\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\Telegram_Interface\Telegram.Bot.dll

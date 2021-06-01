@@ -1,0 +1,1 @@
+dotnet Telegram_Interface.dll %*
